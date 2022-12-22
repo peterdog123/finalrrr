@@ -149,6 +149,7 @@
   <ItemGroup>
     <Content Include="gtag\js_id=G8.js" />
     <Content Include="gtag\js_id=UA.js" />
+    <Content Include="answer.md" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

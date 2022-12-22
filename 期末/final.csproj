@@ -151,6 +151,7 @@
     <Content Include="gtag\js_id=UA.js" />
     <Content Include="answer.md" />
     <None Include="packages.config" />
+    <Content Include="Test.bak" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
